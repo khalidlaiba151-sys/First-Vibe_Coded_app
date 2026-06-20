@@ -51,3 +51,7 @@ bq-release-app/
 - The "Post to X / Twitter" button uses Twitter/X's public tweet-intent
   URL (`twitter.com/intent/tweet?text=...`), which opens a normal compose
   window in your browser. It does not post on your behalf automatically.
+
+## App ScreenShot
+<img width="1905" height="927" alt="image" src="https://github.com/user-attachments/assets/b149a941-6f34-4d84-870b-fef3d7ae6a65" />
+
